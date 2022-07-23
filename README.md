@@ -3,6 +3,7 @@
 ## 📌 **Stack**
 
 React, TypeScript, Style-Components
+Express.js, Typescript, Redis, AWS S3, GCP mysql
 
 <br>
 
