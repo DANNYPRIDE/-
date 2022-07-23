@@ -1,5 +1,7 @@
 # **미식시간 - 다이닝 예약 웹서비스**
 
+##http://kdt-sw2-seoul-team03.elicecoding.com/
+
 ## 📌 **Stack**
 
 React, TypeScript, Style-Components
