@@ -1,5 +1,5 @@
 import { AppDataSource } from '../data-source';
-import { Wish } from '../entity/Wish';
+import { Wish } from '../entity/wish';
 /**
  * Loads all posts from the database.
  */
