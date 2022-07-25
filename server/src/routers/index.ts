@@ -1,9 +1,9 @@
 export * from './menu-router';
 
-export * from './category-Router';
+export * from './category-router';
 export * from './restaurant-router';
-export * from './reserve-router';
-export * from './review-router';
+export * from './reserve-Router';
+export * from './review-Router';
 export * from './time-router';
 export * from './user-router';
 export * from './wish-router';
