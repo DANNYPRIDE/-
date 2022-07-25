@@ -5,7 +5,7 @@ import { Restaurant } from './Restaurant';
 import { Review } from './Review';
 import { Time } from './Time';
 import { User } from './User';
-import { Wish } from './Wish';
+import { Wish } from './wish';
 import { ReviewImage } from './ReviewImage';
 import { RestaurantImage } from './RestaurantImage';
 import { Rating } from './Rating';
